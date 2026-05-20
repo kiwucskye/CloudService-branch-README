@@ -1,10 +1,26 @@
-1. 리눅스 기초 명령어 익히기
+1. Mastering Basic Linux Commands
 
+📂 Directory and File Manipulation
 
+Managing files and folders
 
-디렉토리/파일 조작
+Creating, moving, and deleting items
 
-텍스트 편집 및 확인
+Navigating the file system
 
-권한 및 프로세스 관리
+📝 Text Editing and Viewing
+
+Reading file contents
+
+Editing text in the terminal
+
+Searching and filtering text
+
+🔐 Permissions and Process Management
+
+Controlling access rights
+
+Monitoring system activities
+
+Managing running programs
 
